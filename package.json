@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sagalbot/vue-sortable.git"
+    "url": "https://github.com/lukapeharda/vue-sortable.git"
   },
   "dependencies": {
-    "sortablejs": "^1.4.2"
+    "sortablejs": "git://github.com/RubaXa/Sortable.git#dev"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
